@@ -1,0 +1,13 @@
+﻿[96msrc/components/ui/resizable.tsx[0m:[93m2[0m:[93m17[0m - [91merror[0m[90m TS2724: [0m'"react-resizable-panels"' has no exported member named 'PanelGroup'. Did you mean 'PanelProps'?
+
+[7m2[0m import { Panel, PanelGroup, PanelResizeHandle } from "react-resizable-panels";
+[7m [0m [91m                ~~~~~~~~~~[0m
+
+[96msrc/components/ui/resizable.tsx[0m:[93m2[0m:[93m29[0m - [91merror[0m[90m TS2305: [0mModule '"react-resizable-panels"' has no exported member 'PanelResizeHandle'.
+
+[7m2[0m import { Panel, PanelGroup, PanelResizeHandle } from "react-resizable-panels";
+[7m [0m [91m                            ~~~~~~~~~~~~~~~~~[0m
+
+
+Found 2 errors in the same file, starting at: src/components/ui/resizable.tsx[90m:2[0m
+
