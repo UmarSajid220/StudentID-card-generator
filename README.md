@@ -3,7 +3,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Links: [text](https://studentidcardgen.free.nf/)
+Links: [Click here to preview the website](https://studentidcardgen.free.nf/)
 
 ## Documentation
 Full project documentation is available in the [docs/](./docs/) directory:
